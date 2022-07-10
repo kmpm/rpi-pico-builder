@@ -6,7 +6,7 @@ rpi-pico-builder
 Build environment for Raspberry Pi Pico (RP2040) C/C++ SDK
 
 ```sh
-docker pull xingrz/rpi-pico-builder:latest
+docker pull djflix/rpi-pico-builder:latest
 ```
 
 ## Usage
